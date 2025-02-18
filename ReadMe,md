@@ -1,0 +1,9 @@
+# Global Temperature Analysis
+
+This project analyzes global temperature anomalies from 1900 to 2023.
+
+## Features
+- Data visualization with Matplotlib & Seaborn
+- 10-year moving average trend
+- Line plots with temperature anomalies
+
